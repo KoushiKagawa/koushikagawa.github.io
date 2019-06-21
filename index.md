@@ -9,3 +9,11 @@
 - [Wantedly](https://www.wantedly.com/users/2478254)
 
 ## 職務経歴
+
+### ECサイト運用
+- カスタマーサポート
+- 企画
+- SNS運用
+- 
+
+### Webデベロッパー
