@@ -10,6 +10,7 @@
 |  note  |  [@koushikagawa](https://note.mu/koushikagawa)  |
 |  Instagram  |  [@kagakoh](https://www.instagram.com/kagakoh/)  |
 |  Wantedly  |  [@koushikagawa](https://www.wantedly.com/users/2478254)  |
+|  お問合せ  |  [twitterよりDM下さい](https://www.wantedly.com/users/2478254)  |
 
 ## 職務経歴（概要）
 ### ECサイト運用
