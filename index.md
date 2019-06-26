@@ -4,6 +4,7 @@
 |  Key  |  Value  |
 | ---- | ---- |
 |  名前  |  賀川昂史 Kagawa Koushi  |
+|  場所  |  長野県松本市  |
 |  twitter  |  [@koushikagawa](https://twitter.com/koushikagawa)  |
 |  Facebook  |  [@koushikagawa](https://www.facebook.com/koushikagawa)  |
 |  GitHub  |  [@koushikagawa](https://github.com/KoushiKagawa)  |
@@ -134,6 +135,11 @@
 ### Adobe XD
 - １年ほど利用。デザインモック作成や、画面遷移図作成のために利用。
 
+### Overflow
+- １年ほど利用。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました。
+ - [『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。](https://note.mu/koushikagawa/n/n07aa09e9ae98)
+ - [OverflowがAdobe XDと連携したようなので利用してみました。](https://note.mu/koushikagawa/n/n4662aa9290b1)
+
 ### さくらレンタルサーバー
 - 10年ほど利用。DrupalやLaravel等で作成したサイトのデプロイに利用。
 
@@ -142,3 +148,15 @@
 
 ### Cacoo
 - 1年ほど利用。ER図の作成に利用。
+
+
+## 趣味  
+### 育児
+仕事していないときは長女(2017年1月)と次女(2019年1月)と遊んでます。  
+[育児](https://note.mu/koushikagawa/m/m68b647bc0342)noteも書いてます。  
+
+### 映画鑑賞
+娘の寝かしつけをしながらU-NEXTで昔の映画を見るのが至福です。  
+
+### ラジオ
+深夜ラジオが好きで2012年位からずっと聞いています。[オードリーのANN](http://www.allnightnippon.com/kw/)が一番好きです。
