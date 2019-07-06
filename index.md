@@ -147,8 +147,8 @@
 
 ### Laravel (5.7以降)
 - 半年ほど経験。個人開発にてLaravel利用している。
-- note[https://note.mu/koushikagawa/m/m7aa7d54940b4](https://note.mu/koushikagawa/m/m7aa7d54940b4)にLaravel利用方法を記載。
-- Youtube[https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA)にて簡単なデモ動画投稿。
+- note([https://note.mu/koushikagawa/m/m7aa7d54940b4](https://note.mu/koushikagawa/m/m7aa7d54940b4))にLaravel利用方法を記載。
+- Youtube([https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA))にて簡単なデモ動画投稿。
 
 ### PHP (5以降)
 - 10年ほど経験。DrupalやLaravelの使用のために利用。
@@ -164,7 +164,7 @@
 
 ### Vue.js
 - 半年ほど経験。簡単なアプリの制作が可能。  
-例：noteシュミレーター([https://notesimulator.netlify.com/](https://notesimulator.netlify.com/))
+例：noteシュミレーター([https://notesimulator.netlify.com/](https://notesimulator.netlify.com/))  
 noteのタイムライン、検索結果のプレビューが確認できるサイトです。
 
 ## その他スキル
@@ -174,8 +174,10 @@ noteのタイムライン、検索結果のプレビューが確認できるサ�
 
 ### Overflow
 - １年ほど利用。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました。
- - 『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。[https://note.mu/koushikagawa/n/n07aa09e9ae98](https://note.mu/koushikagawa/n/n07aa09e9ae98)
- - OverflowがAdobe XDと連携したようなので利用してみました。[https://note.mu/koushikagawa/n/n4662aa9290b1](https://note.mu/koushikagawa/n/n4662aa9290b1)
+ - 『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。  
+  ([https://note.mu/koushikagawa/n/n07aa09e9ae98](https://note.mu/koushikagawa/n/n07aa09e9ae98))
+ - OverflowがAdobe XDと連携したようなので利用してみました。  
+ ([https://note.mu/koushikagawa/n/n4662aa9290b1](https://note.mu/koushikagawa/n/n4662aa9290b1))
 
 ### さくらレンタルサーバー
 - 10年ほど利用。DrupalやLaravel等で作成したサイトのデプロイに利用。
@@ -212,7 +214,7 @@ noteのタイムライン、検索結果のプレビューが確認できるサ�
 - [育児note](https://note.mu/koushikagawa/m/m68b647bc0342)も書いてます。  
 
 ### 映画鑑賞
-- 娘の寝かしつけをしながらU-NEXTで昔の映画を見るのが至福です。  
+- 娘の寝かしつけをしながらU-NEXTで昔の映画を見ています。  
 
 ### ラジオ
 - 深夜ラジオが好きで2012年位からずっと聞いています。[オードリーのANN](http://www.allnightnippon.com/kw/)が一番好きです。
