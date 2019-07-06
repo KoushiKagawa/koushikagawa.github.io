@@ -48,11 +48,12 @@
 ## 職務経歴
 ### 株式会社Res(2012/09〜現在)
 一人会社ですが、『ECサイト運用・保守』『地域メディア運用』『Webサイト制作』の３本の柱で事業展開してまいりました。  
+
 #### 1.ECサイト運用サービス保守
-- 女性向けアクセサリーECサイトの運用をおこなっております。  
+- アクセサリーECサイトの運用をおこなっております。  
 
 #### 2.地域メディア運用
-- [Ringos](https://ringos.me/)という松本市のローカルメディアを2018年1月より開始しています。  
+- Ringos([https://ringos.me/](https://ringos.me/))という松本市のローカルメディアを2018年1月より開始しています。  
 
 #### 3.Webサイト制作・運用
 - 受託にてWeb制作を行っております。課題解決の提案と改善が得意です。
@@ -62,43 +63,51 @@
 職種： Webティクニカルディレクター・エンジニア
 
 #### 1. 旅行会社 ウェディング・ハネムーンサイト
-- ディレクション
-- 開発（Drupal、PHP、MySQL、Amazon EC2）
-- お客様への提案・改善
+- 担当：Webディレクター、プログラミング、顧客対応
+- 開発：Drupal、PHP、MySQL、Amazon EC2
+- 打合せ、要望の確認と提案から始まり、サイト構築、サーバ設計、運用保守まで対応しました。
 
 #### 2. 食品会社 商品キャンペーンサイト
-- 開発（Drupal、PHP、MySQL）
+- 担当：プログラミング
+- 開発：Drupal、PHP、MySQL
+- 納期が2週間と短い中で、PMと私の2人で対応。
 
 #### 3. 飲食店キャンペーンサイト
-- 開発（Drupal、PHP、MySQL、Amazon EC2）
-
+- 担当：プログラミング
+- 開発：CakePHP、MySQL、Amazon EC2
+- メインPGのサポートとしてプログラミング対応。CakePHPが初めての取り組みだったが、３ヶ月のスケジュールだったため学習しつつ実装を行う。
 
 ### 株式会社G（207/04 〜 2012/01）
 職種：Webディレクター、Webエンジニア、営業、保守運用
 
 #### 1. マーケティングサイト『Web Go! Go!』構築
-- サイト構築（Drupal、PHP、MySQL）
-- 運用・保守
-- ブログ更新
+- 担当：サイト構築、運用、保守、ブログ更新
+- 開発：Drupal、PHP、MySQL
+- Web制作事業のマーケティングサイトとして構築。サイト構築から運用、問い合わせ対応を行い、お客様への提案も行う。
 
 #### 2. 私立大学　学内ポータルサイト構築
-- 開発（Drupal、PHP、MySQL）
-- ２ヶ月間常駐して教育サポート
+- 担当：サイト構築、学習サポート
+- 開発：Drupal、PHP、MySQL
+- 大学内システム部の方々と、２ヶ月間常駐してDrupalサイト構築プロジェクトにPMとして参画。また、教育サポートも行い、常駐後は学内で保守が行えるように対応した。
 
 #### 3.アミューズメント会社　検索システム構築
-- 開発（Drupal、PHP、MySQL）
+- 担当：PM、プログラミング
+- 開発：Drupal、PHP、MySQL
+- お客様からの要望をもとに機能設計、実装計画を立てる。プログラミング実装まで行う。
 
 #### 4.メーカーQ&Aサイト構築
-- 開発（Drupal、PHP、MySQL）
-- 利用方法講習
+- 担当：PM、プログラミング、利用方法講習
+- 開発：Drupal、PHP、MySQL
+- お客様からの要望をもとに機能設計、実装計画を立てる。プログラミング実装から利用方法講習会も行う。
 
 #### 5.グルメサービス キャンペーンサイト
-- 開発（Drupal、PHP、MySQL）
-- 利用方法講習
-- 常駐してプロジェクトマネジメント
+- 担当：プログラミング、保守・運用、利用方法講習
+- 開発：Drupal、PHP、MySQL
+- サイト構築実装、実装後は常駐して利用方法講習。引き継ぎ対応を行い、常駐後は全て社内で保守が行えるように対応した。
 
 #### 6.新規案件営業
-- 問い合わせがあるたびに訪問し営業、サービス説明
+- 担当：営業
+- 問い合わせがあるたびに訪問し営業、サービス説明を行う。
 
 
 ## 業務外活動
@@ -106,35 +115,46 @@
 個人で、または社外のチームメンバーとともにWebサービス制作を行っています。
 
 #### monocrew
-- https://monocrew.jp/
+- [https://monocrew.jp/](https://monocrew.jp/)
 - monocrewは、SNSで探しモノを簡単に見つけることができるWebサービスです。
 - チーム開発
 - 担当：企画、Laravel開発、保守・運用
 
+#### noteシュミレーター
+- [https://notesimulator.netlify.com/](https://notesimulator.netlify.com/)
+- noteのタイムライン、検索結果のプレビューが確認できます。noteを書いているときに、「タイトルは今何文字なのか」「タイムラインにどのように表示されるのか」といったことが知りたかったので、そのために作りました。
+- 個人開発
+- 担当：企画、プログラミング（Vue.js、HTML、CSS）
+
 #### ラブ松本市
-- https://lovematsumoto.city/
-- 松本市の良いところ、好きなところを誰でも投稿できるサイト。
+- [https://lovematsumoto.city/](https://lovematsumoto.city/)
+- 松本市の良いところ、好きなところを誰でも投稿できるサイト。気軽に地元の良いところを発表できる場を作りたいと思い、このサイトを作成しました。
 - 個人開発
 - 担当：企画、Drupal開発、保守・運用
 
+#### Morning Drupal
+- [https://morning-drupal.com/](https://morning-drupal.com/)
+- オープンソースCMS『Drupal 8』の解説サイト。Drupal 8の日本語での情報が少なかったので、情報発信のために作成しました。
+- 個人開発
+- 担当：企画、Drupal開発、保守・運用
 
 ## プログラミングスキル
 
 ### Drupal (5以降)
 - 5系(2007年)から日常的に利用。メジャーなモジュール、開発手法等は問題なく理解している。
-- [Morning Drupal](https://morning-drupal.com/)というDrupal8系の利用方法を説明したサイトを作成。
-- [Youtube](https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ)にてDrupal利用方法の紹介。
+- Morning Drupal([https://morning-drupal.com/](https://morning-drupal.com/))というDrupal8系の利用方法を説明したサイトを作成。
+- Youtube([https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ](https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ))にてDrupal利用方法の紹介。
 
 ### Laravel (5.7以降)
 - 半年ほど経験。個人開発にてLaravel利用している。
-- [note](https://note.mu/koushikagawa/m/m7aa7d54940b4)Laravel利用方法を記載。
-- [Youtube](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA)にて簡単なデモ動画投稿。
+- note[https://note.mu/koushikagawa/m/m7aa7d54940b4](https://note.mu/koushikagawa/m/m7aa7d54940b4)にLaravel利用方法を記載。
+- Youtube[https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA)にて簡単なデモ動画投稿。
 
 ### PHP (5以降)
-- DrupalやLaravelの使用のために利用。
+- 10年ほど経験。DrupalやLaravelの使用のために利用。
 
 ### MySQL
-- DrupalやLaravelの使用のために利用。
+- 10年ほど経験。DrupalやLaravelの使用のために利用。
 
 ### HTML
 - 10年ほど経験。読み書き問題なく利用可能。デザイナーからデザインを起こす作業のため利用。
@@ -144,8 +164,8 @@
 
 ### Vue.js
 - 半年ほど経験。簡単なアプリの制作が可能。  
-例：[noteシュミレーター](https://notesimulator.netlify.com/)
-(noteのタイムライン、検索結果のプレビューが確認できるサイト)
+例：noteシュミレーター([https://notesimulator.netlify.com/](https://notesimulator.netlify.com/))
+noteのタイムライン、検索結果のプレビューが確認できるサイトです。
 
 ## その他スキル
 
@@ -154,14 +174,15 @@
 
 ### Overflow
 - １年ほど利用。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました。
- - [『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。](https://note.mu/koushikagawa/n/n07aa09e9ae98)
- - [OverflowがAdobe XDと連携したようなので利用してみました。](https://note.mu/koushikagawa/n/n4662aa9290b1)
+ - 『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。[https://note.mu/koushikagawa/n/n07aa09e9ae98](https://note.mu/koushikagawa/n/n07aa09e9ae98)
+ - OverflowがAdobe XDと連携したようなので利用してみました。[https://note.mu/koushikagawa/n/n4662aa9290b1](https://note.mu/koushikagawa/n/n4662aa9290b1)
 
 ### さくらレンタルサーバー
 - 10年ほど利用。DrupalやLaravel等で作成したサイトのデプロイに利用。
 
 ### GitHub
 - 1年ほど利用。
+ - [https://github.com/KoushiKagawa/](https://github.com/KoushiKagawa/)
 
 ### Cacoo
 - 1年ほど利用。ER図の作成に利用。
