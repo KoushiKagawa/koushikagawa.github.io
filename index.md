@@ -175,6 +175,9 @@
 例：noteシュミレーター([https://notesimulator.netlify.com/](https://notesimulator.netlify.com/))  
 noteのタイムライン、検索結果のプレビューが確認できるサイトです。
 
+### WordPress
+- 半年ほど経験。簡単なWebサイト構築が可能。
+
 ## その他ツールスキル
 
 ### Adobe XD
