@@ -154,7 +154,7 @@
 - Youtube([https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ](https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ))にてDrupal利用方法の紹介。
 
 ### Laravel (5.7以降)
-- 半年ほど経験。個人開発にてLaravel利用している。
+- 2018年から個人開発にてLaravelを利用している。
 - note([https://note.mu/koushikagawa/m/m7aa7d54940b4](https://note.mu/koushikagawa/m/m7aa7d54940b4))にLaravel利用方法を記載。
 - Youtube([https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA))にて簡単なデモ動画投稿。
 
