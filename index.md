@@ -17,9 +17,9 @@
 ## 職務経歴（概要）
 ### ECサイト運用
 #### ハンドメイドアクセサリーECサイト運営
-- 受注システム開発・保守 : 6年
-- 問い合わせ対応 : 6年
-- 商品開発/企画 : 6年
+- 受注システム開発・保守 : 7年
+- 問合せ対応 : 7年
+- 企画 : 7年
 - SNS運用 : 3年
 
 ### Webサイト制作
@@ -48,18 +48,21 @@
 
 ## 職務経歴
 ### 株式会社Res(2012/09〜現在)
-一人会社ですが、『ECサイト運用・保守』『地域メディア運用』『Webサイト制作』の３本の柱で事業展開してまいりました。  
+[https://resinc.co.jp/](https://resinc.co.jp/)  
 
-#### 1.ECサイト運用サービス保守
-- アクセサリーECサイトの運用をおこなっております。  
-- 運用システムの開発(Drupal)・運用、カスタマーサポートを対応。
+一人会社ですが、『Webサイト制作』『地域メディア運用』『ECサイト運用・保守』の３本の柱で事業展開してまいりました。  
 
-#### 2.地域メディア運用
-- Ringos([https://ringos.me/](https://ringos.me/))という松本市のローカルメディアを2018年1月より開始しています。  
-
-#### 3.Webサイト制作・運用
+#### 1.Webサイト制作・運用
 - 受託にてWeb制作を行っております。課題解決の提案と改善が得意です。
 - 提案から制作、保守まで一貫して承ります。
+
+#### 2.地域メディア運用
+- Ringos([https://ringos.me/](https://ringos.me/))という松本市のローカルメディアを2018年1月より開始しています。 
+  
+#### 3.ECサイト運用サービス保守
+- アクセサリーECサイトの運用をおこなっております。  
+- 運用システムの開発(Drupal)・運用、カスタマーサポートを対応。
+- ※2019年8月に事業売却。
 
 ### I株式会社（2012/02 〜 2012/08）
 職種： Webティクニカルディレクター・エンジニア
@@ -149,7 +152,7 @@
 ## プログラミングスキル
 
 ### Drupal (5以降)
-- 5系(2007年)から日常的に利用。メジャーなモジュール、開発手法等は問題なく理解している。
+- 2007年〜現在。5系(2007年)から日常的に利用。メジャーなモジュール、開発手法等は問題なく理解している。
 - Morning Drupal([https://morning-drupal.com/](https://morning-drupal.com/))というDrupal8系の利用方法を説明したサイトを作成。
 - Youtube([https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ](https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ))にてDrupal利用方法の紹介。
 
@@ -159,55 +162,58 @@
 - Youtube([https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA))にて簡単なデモ動画投稿。
 
 ### PHP (5以降)
-- 10年ほど経験。DrupalやLaravelの使用のために利用。
+- 2007年〜現在。DrupalやLaravelの使用のために利用。
 
 ### MySQL
-- 10年ほど経験。DrupalやLaravelの使用のために利用。
+- 2007年〜現在。DrupalやLaravelの使用のために利用。
 
 ### HTML
-- 10年ほど経験。読み書き問題なく利用可能。デザイナーからデザインを起こす作業のため利用。
+- 2007年〜現在。読み書き問題なく利用可能。デザイナーからデザインを起こす作業のため利用。
 
 ### CSS
-- 10年ほど経験。読み書き問題なく利用可能。デザイナーからデザインを起こす作業のため利用。
+- 2007年〜現在。読み書き問題なく利用可能。デザイナーからデザインを起こす作業のため利用。
 
 ### Vue.js
-- 半年ほど経験。簡単なアプリの制作が可能。  
+- 2018年より経験。簡単なアプリの制作が可能。  
 例：noteシュミレーター([https://notesimulator.netlify.com/](https://notesimulator.netlify.com/))  
 noteのタイムライン、検索結果のプレビューが確認できるサイトです。
 
 ### WordPress
-- 半年ほど経験。簡単なWebサイト構築が可能。
+- 2018年より制作開始。簡単なWebサイト構築が可能。
 
 ## その他ツールスキル
 
 ### Adobe XD
-- １年ほど利用。デザインモック作成や、画面遷移図作成のために利用。
+- 2018年〜現在。デザインモック作成や、画面遷移図作成のために利用。
 
 ### Overflow
-- １年ほど利用。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました。
+- 2018年〜現在。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました。
  - 『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。  
   ([https://note.mu/koushikagawa/n/n07aa09e9ae98](https://note.mu/koushikagawa/n/n07aa09e9ae98))
  - OverflowがAdobe XDと連携したようなので利用してみました。  
  ([https://note.mu/koushikagawa/n/n4662aa9290b1](https://note.mu/koushikagawa/n/n4662aa9290b1))
 
 ### さくらレンタルサーバー
-- 10年ほど利用。DrupalやLaravel等で作成したサイトのデプロイに利用。
+- 2007年〜現在。DrupalやLaravel等で作成したサイトのデプロイに利用。
 
 ### GitHub
-- 1年ほど利用。
+- 2018年〜現在。
  - [https://github.com/KoushiKagawa/](https://github.com/KoushiKagawa/)
 
 ### Cacoo
-- 1年ほど利用。ER図の作成に利用。
+- 2018年〜現在。ER図の作成に利用。
 
 ### Slack
-- ３年ほど利用。チームコミュニケーション用に利用。
+- 2016年〜現在。チームコミュニケーション用に利用。
 
 ### Trello
-- ３年ほど利用。タスク管理に利用。
+- 2016年〜現在。タスク管理に利用。
 
 ### Bear
-- １年ほど利用。簡単なメモに利用。（[note](https://note.mu/koushikagawa/n/n7c4d2988c4cf)にBearの解説記載）
+- 2018年〜現在。簡単なメモに利用。（[note](https://note.mu/koushikagawa/n/n7c4d2988c4cf)にBearの解説記載）
+
+### Notion
+- 2018年〜現在。プロジェクト管理に利用。
 
 ## 得意なところと今後挑戦したいこと
 ### 得意なところ
