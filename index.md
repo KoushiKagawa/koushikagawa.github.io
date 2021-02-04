@@ -126,7 +126,7 @@
 - 担当：企画、Laravel開発、保守・運用
 
 #### ポートフォリオサイト
-- [https://koushikagawa.com/](https://koushikagawa.com/)
+- [https://koushikagawa.net/](https://koushikagawa.net/)
 - 私のポートフォリオサイトです。
 - 個人開発
 - 担当：企画、Nuxt.js開発、Contentful、Netlify、保守・運用
