@@ -11,14 +11,12 @@
 |  GitHub  |  [@koushikagawa](https://github.com/KoushiKagawa)  |
 |  note  |  [@koushikagawa](https://note.mu/koushikagawa)  |
 |  Instagram  |  [@kagakoh](https://www.instagram.com/kagakoh/)  |
-|  Wantedly  |  [@koushikagawa](https://www.wantedly.com/users/2478254)  |
 |  お問合せ  |  [twitterよりDM下さい](https://www.wantedly.com/users/2478254)  |
 
 ## 職務経歴（概要）
 ### テクニカルライティング
 #### リードテクニカルライター
 - ライティング : 2年
-- レビュー : 1年
 
 ### Webサイト制作
 #### プロジェクトマネージャー 
@@ -55,6 +53,14 @@
 
 
 ## 職務経歴
+### 株式会社ディバータ(2020/05〜現在)
+
+#### 1.Kurocoドキュメントサイト PjM
+ディバータで開発しているHeadless CMS [Kuroco(クロコ)](https://kuroco.app/ja/)の[サポート用ドキュメントサイト](https://kuroco.app/ja/docs/)でPjMを担当してます。
+
+#### 2.Kurocoドキュメントサイト テクニカルライター
+テクニカルライターとして記事を執筆・レビューをしています。
+
 ### 株式会社Res(2012/09〜現在)
 [https://resinc.co.jp/](https://resinc.co.jp/)  
 
@@ -65,7 +71,7 @@
 - 提案から制作、保守まで一貫して承ります。
 
 #### 2.地域メディア運用
-- Ringos([https://ringos.me/](https://ringos.me/))という松本市のローカルメディアを2018年1月より開始しています。 
+- Ringos([https://ringos.me/](https://ringos.me/))という松本市のローカルメディアを2018年1月より開始しています。(2021年3月に閉鎖しました。)
   
 #### 3.ECサイト運用サービス保守
 - アクセサリーECサイトの運用をおこなっております。  
