@@ -9,12 +9,11 @@
 |  twitter  |  [@koushikagawa](https://twitter.com/koushikagawa)  |
 |  Facebook  |  [@koushikagawa](https://www.facebook.com/koushikagawa)  |
 |  GitHub  |  [@koushikagawa](https://github.com/KoushiKagawa)  |
-|  note  |  [@koushikagawa](https://note.mu/koushikagawa)  |
+|  note  |  [@koushikagawa](https://note.com/koushikagawa)  |
 |  Instagram  |  [@kagakoh](https://www.instagram.com/kagakoh/)  |
-|  お問合せ  |  [twitterよりDM下さい](https://www.wantedly.com/users/2478254)  |
+|  お問合せ  |  [twitterよりDM下さい](https://twitter.com/koushikagawa)  |
 
 ## 職務経歴(サマリー)
-
 |  会社名  |  期間  |  やったこと  |
 | ---- | ---- | ---- |  
 |  [Repro株式会社](#Repro株式会社202205現在)  |  2020/05 〜  | 開発ドキュメントサイト担当のプロダクトマネージャー |
@@ -28,7 +27,7 @@
 ### Repro株式会社(2022/05〜現在)
 #### Repro開発者向けドキュメントサイト プロダクトマネージャー
 Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.repro.io/ja/)のプロダクトマネージャーを担当。
-ほぼメンテナンスがされていない状態のサイトを、開発者が理解しやすいように再構築を行う。
+開発ドキュメントの担当と併せて、社内向けにライティングナレッジの共有を行う。
 - テクニカルライティング
     - サポートチームと連携し、お客様の意見をドキュメントに反映
     - 開発チームと連携し、お客様に伝えなくてはいけない情報をドキュメントに反映
