@@ -248,7 +248,7 @@ noteのタイムライン、検索結果のプレビューが確認できるサ�
 ## 趣味  
 ### 育児
 - 仕事していないときは長女(2017年1月)と次女(2019年1月)と遊んでます。  
-- 育児note([https://note.mu/koushikagawa/m/m68b647bc0342](https://note.mu/koushikagawa/m/m68b647bc0342))も書いてます。
+- [育児note](https://note.mu/koushikagawa/m/m68b647bc0342)も書いてます。
 
 ### 映画鑑賞
 - 娘の寝かしつけをしながらU-NEXTで昔の映画を見ています。  
