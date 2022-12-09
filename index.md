@@ -6,6 +6,7 @@
 |  名前  |  賀川昂史 Kagawa Koushi  |
 |  場所  |  長野県松本市  |
 |  ポートフォリオ  |  [koushikagawa.net](https://koushikagawa.net/works)  |
+|  Writing Blog  |  [kagawa Writing](https://koushikagawa.com)  |
 |  twitter  |  [@koushikagawa](https://twitter.com/koushikagawa)  |
 |  Facebook  |  [@koushikagawa](https://www.facebook.com/koushikagawa)  |
 |  GitHub  |  [@koushikagawa](https://github.com/KoushiKagawa)  |
