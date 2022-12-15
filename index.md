@@ -269,3 +269,4 @@ noteのタイムライン、検索結果のプレビューが確認できるサ�
 ## 好きな本
 - [顧客が熱狂するネット靴店　ザッポス伝説](https://amzn.to/2XeueWp)
 - [The Product is Docs: Writing technical documentation in a product development group (English Edition)](https://amzn.to/3AjXP2p)
+- [日本語スタイルガイド(第3版)](https://amzn.to/3HB07P3)
