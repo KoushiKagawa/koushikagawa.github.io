@@ -162,7 +162,7 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 
 ### Laravel (5.7以降)
 - 2018年から個人開発にてLaravelを利用している。
-- note([https://note.mu/koushikagawa/m/m7aa7d54940b4](https://note.mu/koushikagawa/m/m7aa7d54940b4))にLaravel利用方法を記載。
+- note([https://note.com/koushikagawa/m/m7aa7d54940b4](https://note.com/koushikagawa/m/m7aa7d54940b4))にLaravel利用方法を記載。
 - Youtube([https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA))にて簡単なデモ動画投稿。
 
 ### PHP (5以降)
@@ -199,9 +199,9 @@ noteのタイムライン、検索結果のプレビューが確認できるサ�
 ### Overflow
 - 2018年〜現在。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました。
  - 『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。  
-  ([https://note.mu/koushikagawa/n/n07aa09e9ae98](https://note.mu/koushikagawa/n/n07aa09e9ae98))
+  ([https://note.com/koushikagawa/n/n07aa09e9ae98](https://note.com/koushikagawa/n/n07aa09e9ae98))
  - OverflowがAdobe XDと連携したようなので利用してみました。  
- ([https://note.mu/koushikagawa/n/n4662aa9290b1](https://note.mu/koushikagawa/n/n4662aa9290b1))
+ ([https://note.com/koushikagawa/n/n4662aa9290b1](https://note.com/koushikagawa/n/n4662aa9290b1))
 
 ### さくらレンタルサーバー
 - 2007年〜現在。DrupalやLaravel等で作成したサイトのデプロイに利用。
@@ -220,7 +220,7 @@ noteのタイムライン、検索結果のプレビューが確認できるサ�
 - 2016年〜現在。タスク管理に利用。
 
 ### Bear
-- 2018年〜現在。簡単なメモに利用。（[note](https://note.mu/koushikagawa/n/n7c4d2988c4cf)にBearの解説記載）
+- 2018年〜現在。簡単なメモに利用。（[note](https://note.com/koushikagawa/n/n7c4d2988c4cf)にBearの解説記載）
 
 ### Notion
 - 2018年〜現在。プロジェクト管理に利用。
@@ -258,7 +258,7 @@ noteのタイムライン、検索結果のプレビューが確認できるサ�
 ## 趣味  
 ### 育児
 - 仕事していないときは長女(2017年1月)と次女(2019年1月)と遊んでます。  
-- [育児note](https://note.mu/koushikagawa/m/m68b647bc0342)も書いてます。
+- [育児note](https://note.com/koushikagawa/m/m68b647bc0342)も書いてます。
 
 ### 映画鑑賞
 - 娘の寝かしつけをしながらU-NEXTで昔の映画を見ています。  
