@@ -1,28 +1,26 @@
 # 職務経歴書
 ## アカウント  
 
-|  Key  |  Value  |
+|  項目  |  概要  |
 | ---- | ---- |
 |  名前  |  賀川昂史 Kagawa Koushi  |
 |  場所  |  長野県松本市  |
-|  ポートフォリオ  |  [koushikagawa.net](https://koushikagawa.net/works)  |
 |  Writing Blog  |  [kagawa Writing](https://koushikagawa.com)  |
 |  twitter  |  [@koushikagawa](https://twitter.com/koushikagawa)  |
-|  Facebook  |  [@koushikagawa](https://www.facebook.com/koushikagawa)  |
 |  GitHub  |  [@koushikagawa](https://github.com/KoushiKagawa)  |
 |  note  |  [@koushikagawa](https://note.com/koushikagawa)  |
+|  Facebook  |  [@koushikagawa](https://www.facebook.com/koushikagawa)  |
 |  Instagram  |  [@kagakoh](https://www.instagram.com/kagakoh/)  |
 |  お問合せ  |  [twitterよりDM下さい](https://twitter.com/koushikagawa)  |
 
 ## 職務経歴(サマリー)
-
 |  会社名  |  期間  |  やったこと  |
 | ---- | ---- | ---- |  
-|  [Repro株式会社](#Repro株式会社202205現在)  |  2022/05 〜  | 開発ドキュメントサイト担当のプロジェクトマネージャー<br/> テクニカルライター |
-|  [株式会社ディバータ](#株式会社ディバータ202005現在)  |  2020/05 〜 2022/04  | プロジェクトマネージャー<br/> テクニカルライター |
-|  [株式会社Res](#株式会社res201209--202204)  |  2012/09 〜 2022/04 | 代表 |
-|  [Isobar Japan株式会社](#isobar-japan株式会社201202--201208)<br>(現 電通アイソバー)  |  2012/02 〜 2012/08  | Web ディレクター<br>エンジニア |
-|  [株式会社GIM](#株式会社gim20704--201201)<br>(現 株式会社アウトソーシングテクノロジー)  |  2007/04 〜 2012/01 | Web ディレクター<br>エンジニア |
+|  [Repro株式会社](#repro株式会社202205現在) |  2022/05 〜  | 開発ドキュメントサイト担当のプロジェクトマネージャー/ テクニカルライター |
+|  [株式会社ディバータ](#株式会社ディバータ202005202204)  |  2020/05 〜 2022/04  | プロジェクトマネージャー/ テクニカルライター |
+|  [株式会社Res](#株式会社res201209--202204)  |  2012/09 〜 2022/04 | 代表<br/>事業売却により解散 |
+|  [Isobar Japan株式会社](#isobar-japan株式会社201202--201208)(現 電通アイソバー)  |  2012/02 〜 2012/08  | Web ディレクター・エンジニア |
+|  [株式会社GIM](#株式会社gim20704--201201)(現 株式会社アウトソーシングテクノロジー)  |  2007/04 〜 2012/01 | Web ディレクター/エンジニア |
 
 ## 職務経歴(詳細)
 ### Repro株式会社(2022/05〜現在)
@@ -50,11 +48,9 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 #### 実績
 実際に書いた記事例
 - [Slackで定期的に確認をサポートするbotアプリ「KurocoWorkflow」のインストールと利用方法](https://kuroco.app/ja/docs/tutorials/workflow-bot/)
-- 
-
+- [KurocoFrontで独自ドメインを利用する手順](https://kuroco.app/ja/docs/tutorials/using-a-custom-domain-name-on-kurocofront/)
 
 ### 株式会社Res(2012/09 〜 2022/04)
-[https://resinc.co.jp/](https://resinc.co.jp/)  
 
 一人会社ですが、『Webサイト制作』『地域メディア運用』『ECサイト運用・保守』の３本の柱で事業展開してまいりました。  
 
@@ -63,7 +59,7 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 - 提案から制作、保守まで一貫して対応。
 
 #### 2.地域メディア運用(2021年3月に閉鎖)
-- Ringos([https://ringos.me/](https://ringos.me/))という松本市のローカルメディアを2018年1月より開始。
+- Ringosという松本市のローカルメディアを2018年1月より開始。
   
 #### 3.ECサイト運用サービス保守(2019年8月に事業売却)
 - アクセサリーECサイトの運用を行なっております。  
@@ -123,6 +119,12 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 ### プロダクト開発
 個人で、または社外のチームメンバーとともにWebサービス制作を行っています。
 
+#### テクニカルライティングサイト
+- [https://koushikagawa.com/](https://koushikagawa.com/)
+- テクニカルライティングについてのtipsをまとめたサイト
+- 個人開発
+- 担当：ライティング、サイト構築([Docusaurus](https://docusaurus.io/)利用)
+
 #### ポートフォリオサイト
 - [https://koushikagawa.net/](https://koushikagawa.net/)
 - 私のポートフォリオサイトです。
@@ -136,34 +138,31 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 - 担当：企画、プログラミング（Vue.js、HTML、CSS）
 
 #### monocrew(2021年3月閉鎖)
-- [https://monocrew.jp/](https://monocrew.jp/)
-- monocrewは、SNSで探しモノを簡単に見つけることができるWebサービス。
+- https://note.com/koushikagawa/n/n1d70562c1799
+- monocrewは、SNSで探しモノを簡単に見つけることができるWebサービスです
 - チーム開発
 - 担当：企画、Laravel開発、保守・運用
 
 #### ラブ松本市(2020年3月閉鎖)
-- [https://lovematsumoto.city/](https://lovematsumoto.city/)
 - 松本市の良いところ、好きなところを誰でも投稿できるサイト。気軽に地元の良いところを発表できる場を作りたいと思い、このサイトを作成しました。
 - 個人開発
 - 担当：企画、Drupal開発、保守・運用
 
 #### Morning Drupal(2020年3月閉鎖)
-- [https://morning-drupal.com/](https://morning-drupal.com/)
-- オープンソースCMS『Drupal 8』の解説サイト。Drupal 8の日本語での情報が少なかったので、情報発信のために作成。
+- オープンソースCMS『Drupal 8』の解説サイト。Drupal 8の日本語での情報が少なかったので、情報発信のために作成
 - 個人開発
 - 担当：企画、Drupal開発、保守・運用
 
 ## プログラミングスキル
-
 ### Drupal (5以降)
 - 2007年〜現在。5系(2007年)から日常的に利用。メジャーなモジュール、開発手法等は問題なく理解している。
-- Morning Drupal([https://morning-drupal.com/](https://morning-drupal.com/))というDrupal8系の利用方法を説明したサイトを作成。
-- Youtube([https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ](https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ))にてDrupal利用方法の紹介。
+- Morning DrupalというDrupal8系の利用方法を説明したサイトを作成。
+- [Youtube](https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ)にてDrupal利用方法の紹介。
 
 ### Laravel (5.7以降)
 - 2018年から個人開発にてLaravelを利用している。
-- note([https://note.com/koushikagawa/m/m7aa7d54940b4](https://note.com/koushikagawa/m/m7aa7d54940b4))にLaravel利用方法を記載。
-- Youtube([https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA))にて簡単なデモ動画投稿。
+- [note](https://note.com/koushikagawa/m/m7aa7d54940b4)にLaravel利用方法を記載。
+- [Youtube](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA)にて簡単なデモ動画投稿。
 
 ### PHP (5以降)
 - 2007年〜現在。DrupalやLaravelの使用のために利用。
@@ -179,14 +178,17 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 
 ### Vue.js
 - 2018年〜現在。簡単なアプリの制作が可能。  
-例：noteシュミレーター([https://notesimulator.netlify.com/](https://notesimulator.netlify.com/))  
-noteのタイムライン、検索結果のプレビューが確認できるサイトです。
+    - 例：[noteシュミレーター](https://notesimulator.netlify.com/)  
+    - noteのタイムライン、検索結果のプレビューが確認できるサイトです。
 
 ### Nuxt.js
 - 2018年〜現在。Headless CMSのフロントエンド利用。
 
 ### WordPress
 - 2018年より制作開始。簡単なWebサイト構築が可能。
+
+### Docusaurus
+- 2021年より利用開始。ドキュメントサイト構築時に利用。
 
 ### markdown
 - 一般的なmarkdown記法の記述可能。
@@ -197,33 +199,39 @@ noteのタイムライン、検索結果のプレビューが確認できるサ�
 - 2018年〜現在。デザインモック作成や、画面遷移図作成のために利用。
 
 ### Overflow
-- 2018年〜現在。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました。
- - 『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。  
-  ([https://note.com/koushikagawa/n/n07aa09e9ae98](https://note.com/koushikagawa/n/n07aa09e9ae98))
- - OverflowがAdobe XDと連携したようなので利用してみました。  
- ([https://note.com/koushikagawa/n/n4662aa9290b1](https://note.com/koushikagawa/n/n4662aa9290b1))
+- 2018年〜現在。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました
+ - [『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。](https://note.com/koushikagawa/n/n07aa09e9ae98)  
+ - [OverflowがAdobe XDと連携したようなので利用してみました。](https://note.com/koushikagawa/n/n4662aa9290b1) 
 
 ### さくらレンタルサーバー
-- 2007年〜現在。DrupalやLaravel等で作成したサイトのデプロイに利用。
+- 2007年〜現在。DrupalやLaravel等で作成したサイトのデプロイに利用
 
 ### GitHub
-- 2018年〜現在。
- - [https://github.com/KoushiKagawa/](https://github.com/KoushiKagawa/)
+- 2018年〜現在
 
 ### Cacoo
-- 2018年〜現在。ER図の作成に利用。
+- 2018年〜現在。ER図の作成に利用
 
 ### Slack
-- 2016年〜現在。チームコミュニケーション用に利用。
+- 2016年〜現在。チームコミュニケーション用に利用
 
 ### Trello
-- 2016年〜現在。タスク管理に利用。
+- 2016年〜現在。タスク管理に利用
 
 ### Bear
 - 2018年〜現在。簡単なメモに利用。（[note](https://note.com/koushikagawa/n/n7c4d2988c4cf)にBearの解説記載）
 
 ### Notion
-- 2018年〜現在。プロジェクト管理に利用。
+- 2018年〜現在。プロジェクト管理に利用
+
+### Miro
+- 2020年〜。チームビルディング等で利用
+
+### Backlog
+- 2020年〜。タスク管理に利用
+
+### ClickUp
+- 2022年〜。タスク管理に利用
 
 ## 著作
 ### Drupal Pro Book CMSカスタマイズ&デザインガイド
