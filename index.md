@@ -8,12 +8,6 @@
 
 何かお力になれることがあればお気軽にご連絡ください。
 
-:::note
-
-お問い合わせは[TwitterよりDM](https://twitter.com/koushikagawa)ください。
-
-:::
-
 ## アカウント  
 
 |  項目  |  概要  |
