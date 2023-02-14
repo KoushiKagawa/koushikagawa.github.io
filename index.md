@@ -39,8 +39,11 @@ Webとアプリの売上最大化ソリューションツール「Repro」の開
 また、社内向けにライティングナレッジの共有を行い、チームとしてのライティングスキル向上に取り組んだ。
 
 - プロジェクト規模
-    - ドキュメント担当は1人だが、CSやDEVなどのメンバーと連携をとり進めている
+    - ドキュメント担当は1人だが、CSやDEVなど合計5名程度のメンバーと連携をとり推進する
     - スクラム開発
+- 役割
+    - プロジェクトマネージャー
+    - テクニカルライター
 - プロジェクト詳細
     - サイトはSphinxでの実装
     - GitHubを利用したドキュメント管理
@@ -66,7 +69,27 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 -->
 
 ### 株式会社ディバータ(2020/05〜2022/04)
+国産Headless CMSの「Kuroco」の[開発者向けドキュメントサイト](https://kuroco.app/ja/docs/)のプロジェクトマネージャー担当。 
+サイト立ち上げから参加し、情報設計、ドキュメント作成、チームマネジメントを行う。
 
+- プロジェクト規模
+    - ドキュメント担当は1人だが、CSやDEVなどの合計10名程度のメンバーと連携をとり推進
+- 役割
+    - プロジェクトマネージャー
+    - テクニカルライター
+- プロジェクト詳細
+    - サイトはInklineでの実装
+    - GitHubを利用したドキュメント管理
+    - GItHubを利用したタスク管理
+    - markdownでのドキュメント作成
+    - Algoliaを利用した検索システムの改善
+    - 日英の多言語対応
+- その他
+    - 社内向けのライティングマニュアル作成
+    - 英語ネイティブのメンバーとのコミュニケーションを実施
+    - ドキュメント文化を社内に根付かせる
+
+<!--
 #### 1.Kurocoドキュメントサイト プロジェクトマネージャー
 ディバータで開発しているHeadless CMS [Kuroco(クロコ)](https://kuroco.app/ja/)の[サポート用ドキュメントサイト](https://kuroco.app/ja/docs/)でプロジェクトマネージャーを担当。
 
@@ -102,8 +125,29 @@ WebディレクターとしてWebサイト構築業務を担当。
 - タスク管理
 - スケジュール管理
 
-### 株式会社Res(2012/09 〜 2022/04)
+-->
 
+### 株式会社Res(2012/09 〜 2022/04)
+一人会社。ECサイトの業務効率化システムの開発・運用・保守事業を行う。
+
+- システム概要
+    - 複数モールを利用しているECサイト運営者様に向けて、一括で管理できるシステムを開発し提供
+    - ECサイトのカスタマーサポートも担当し、お客様の声をECサイトの運営やシステムに反映する
+- プロジェクト規模
+    - 開発から運用まで1人で対応
+    - お客様も1人だったので、その方とコミュニケーションをとり改善を行う
+- 役割
+    - プロダクトマネージャー
+    - カスタマーサポート
+    - システム開発
+- プロジェクト詳細
+    - サイトはDrupalでの実装
+    - タスク管理は実装したシステム内で対応
+    - メールによる顧客対応
+- その他
+    - システム導入により、ECサイトの運用工数を60%削減
+
+<!--
 一人会社ですが、『Webサイト制作』『地域メディア運用』『ECサイト運用・保守』の３本の柱で事業展開してまいりました。  
 
 #### 1.Webサイト制作・運用
@@ -116,10 +160,23 @@ WebディレクターとしてWebサイト構築業務を担当。
 #### 3.ECサイト運用サービス保守(2019年8月に事業売却)
 - アクセサリーECサイトの運用を行なっております
 - 運用システムの開発(Drupal)・運用、カスタマーサポートを対応
+-->
 
 ### Isobar Japan株式会社（2012/02 〜 2012/08）
-職種： Webティクニカルディレクター・エンジニア
+Webディレクター・エンジニアとして、技術選定・機能設計から実装まで主導した。
+海外のお客様も多かったため、英語でのミーティングやメールのやり取りに参加。
 
+- プロジェクト規模
+    - 2〜6名のチームでの開発
+- 役割
+    - Webディレクター
+    - エンジニア
+- プロジェクト詳細
+    - CakePHPやDrupalなど、PHPをベースとしたフレームワークやCMSを利用
+- その他
+    - オープンソースのCMSの利用を社内に推進し、開発効率を向上させる
+
+<!--
 #### 1. 旅行会社 ウェディング・ハネムーンサイト
 - 担当：Webディレクター、プログラミング、顧客対応
 - 開発：Drupal、PHP、MySQL、Amazon EC2
@@ -134,12 +191,27 @@ WebディレクターとしてWebサイト構築業務を担当。
 - 担当：プログラミング
 - 開発：CakePHP、MySQL、Amazon EC2
 - メインPGのサポートとしてプログラミング対応。CakePHPが初めての取り組みだったが、３ヶ月のスケジュールだったため学習しつつ実装を行う
+-->
 
 ### 株式会社GIM（207/04 〜 2012/01）
 民間企業や大学法人のWebサイト制作に従事。  
 Webディレクター、またWebエンジニアとして機能設計と実装を主導した。  
 さらに新規営業で案件を取得したり、リリースしたWebサイトの保守運用を担当するなど、
 Web制作のビジネスにおいて必要な一連のスキルを網羅的に獲得した。
+
+- プロジェクト規模
+    - 2〜4名のチームでの開発
+- 役割
+    - Webディレクター
+    - エンジニア
+    - 講師
+- プロジェクト詳細
+    - Drupalを利用したWeb制作
+    - Drupalのナレッジサイト『Web Go!Go!』の運営
+- その他
+    - 日本初のDrupal解説書『[Drupal Pro Book CMSカスタマイズ&デザインガイド](https://amzn.to/2WZEAcx)』を執筆
+    - 社外向けにもDrupalの利用者向上に努める
+
 <!--
 職種：Webディレクター、Webエンジニア、営業、保守運用
 
@@ -173,10 +245,12 @@ Web制作のビジネスにおいて必要な一連のスキルを網羅的に�
 - 問い合わせがあるたびに訪問し営業、サービス説明を行う
 -->
 
+<!--
 ### 著作
 #### Drupal Pro Book CMSカスタマイズ&デザインガイド
 - [https://amzn.to/2WZEAcx](https://amzn.to/2WZEAcx)
 - 計3名での共著
+-->
 
 ## 業務外活動
 ### プロダクト開発
@@ -222,6 +296,8 @@ Web制作のビジネスにおいて必要な一連のスキルを網羅的に�
 - 担当：企画、Drupal開発、保守・運用
 -->
 ## スキル
+利用可能なスキルを記述します。
+<!--
 ### 職種
 #### プロジェクトマネジメント
 2012〜現在はプロジェクトマネジメントを中心に活動してきました。
@@ -295,7 +371,46 @@ Kurocoドキュメント担当時の工夫した点を記載します。
 2007年の新卒から現在まで、簡易なWebサイトであればひとりで構築からリリースまで対応できます。
 制作物例は[プロダクト開発](#プロダクト開発)をご確認ください。
 
+-->
+
 ### プログラミングスキル
+
+<img alt="php" src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=flat-square" /> 
+<img alt="Drupal" src="https://img.shields.io/badge/-Drupal-0678BE.svg?logo=drupal&style=flat-square" /> 
+<img alt="WordPress" src="https://img.shields.io/badge/-Wordpress-21759B.svg?logo=wordpress&style=flat-square" />
+<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=flat-square" />
+<img alt="MySQL" src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square" />
+<img alt="HTML5" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=flat-square" />
+<img alt="CSS3" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=flat-square" />
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square" />
+<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=flat-square" />
+<img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat-square" />
+
+<!--
+参考：https://codesandbox.io/s/icon-generator-shields-io-t8csp?from-embed
+-->
+
+<!-- 
+
+### プログラミングスキル
+
+Drupal / WordPress / Laravel / PHP / MySQL / HTML / CSS / Vue.js / Nuxt.js / Docusaurus / markdown
+
+
+|  項目  |  開始時期  | 概要  |
+| ---- | ---- | ---- |
+| Drupal |  2007年〜 | 5系(2007年)から日常的に利用。<br/>メジャーなモジュール、開発手法等は問題なく理解している。  |
+| WordPress | 2018年〜| 簡単なWebサイト構築が可能。|
+| Laravel |  2018年〜  | 個人開発にてLaravelを利用。 |
+| PHP | 2007年〜| |
+| MySQL | 2007年〜| |
+| HTML | 2007年〜| |
+| CSS | 2007年〜| |
+| Vue.js | 2018年〜| 簡単なアプリの制作が可能。 |
+| Nuxt.js | 2018年〜|Headless CMSのフロントエンドで利用。|
+| Docusaurus | 2021年〜| ドキュメントサイト構築時に利用。|
+| markdown | 2018年〜|  |
+
 #### Drupal (5以降)
 - 2007年〜現在。5系(2007年)から日常的に利用。メジャーなモジュール、開発手法等は問題なく理解している
 - Morning DrupalというDrupal8系の利用方法を説明したサイトを作成。
@@ -332,8 +447,34 @@ Kurocoドキュメント担当時の工夫した点を記載します。
 
 #### markdown
 - 一般的なmarkdown記法の記述可能
+-->
 
 ### ツールスキル
+
+<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square" />
+<img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat-square" />
+<img src="https://img.shields.io/badge/-Confluence-172B4D.svg?logo=confluence&style=flat-square" />
+<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat-square" />
+<img src="https://img.shields.io/badge/-ClickUp-000.svg?logo=ClickUp&style=flat-square" />
+<img src="https://img.shields.io/badge/-Notion-000.svg?logo=Notion&style=flat-square" />
+<img src="https://img.shields.io/badge/-Miro-000.svg?logo=Miro&style=flat-square" />
+<img src="https://img.shields.io/badge/-Chatwork-000.svg?logo=Chatwork&style=flat-square" />
+
+<!--
+### ツールスキル
+
+|  項目  |  開始時期  |
+| ---- | ---- |
+| GitHub |  2018年〜 |
+| Slack | 2018年〜|
+| Chatwork | 2012年〜|
+| Notion | 2018年〜|
+| esa | 2022年〜|
+| Confluence |2020年〜 |
+| Miro | 2020年〜|
+| Backlog | 2020年〜|
+| ClickUp | 2022年〜|
+| Trello | 2016年〜|
 
 #### Adobe XD
 - 2018年〜現在。デザインモック作成や、画面遷移図作成のために利用
@@ -373,6 +514,7 @@ Kurocoドキュメント担当時の工夫した点を記載します。
 
 #### ClickUp
 - 2022年〜。タスク管理に利用
+-->
 
 ## 意欲・興味
 - 新しい技術に対して積極的に学習を行い、スキルアップに努めます
@@ -417,8 +559,8 @@ Kurocoドキュメント担当時の工夫した点を記載します。
 - サポート方法を仕組み化できるよう、ナレッジ共有
 -->
 
-### 今後挑戦したいこと 
-#### プロダクト作成のサポート
+## 今後挑戦したいこと 
+### プロダクト作成のサポート
 プロダクトの成長をサポートし、良さを十分に引き出せるような活動をしていきたいです。
 
 例：
@@ -428,14 +570,16 @@ Kurocoドキュメント担当時の工夫した点を記載します。
 業種としては、業務効率化を図るプロダクト構築に興味があります。
 システムでまかなえる部分はシステム任せにし、考えることのみに工数を利用できるような仕組みが好きです。
 
-#### ドキュメントサイト担当のプロダクトマネージャー
+### ドキュメントサイト担当のプロダクトマネージャー
 テクニカルライティング業務をするにあたり、[The Product is Docs](https://amzn.to/3O6F201)という本を参考にしています。  
 この本の著者である Christopher Gales さんの肩書きが「Senior Director of Documentation at Splunk」となっており、あまり日本ではみない肩書きだなと思ったのと同時に、良い肩書きだなと思いました。日本でもこの肩書きを広めたいなと思っていて、目指したいなと考えています。
 
+<!--
 #### テクニカルライターになりたい人を増やす
 現在日本ではテクニカルライターという職種が少ないです。けれども[LINEさんが頑張っている](https://engineering.linecorp.com/ja/blog/line-technical-writing/)成果で、徐々に広まっている熱量を感じます。  
 テクニカルライターは非常に面白く、やりがいのある職業だと感じています。  
 日々の業務での気づきやポイントをnoteで発信していき、テクニカルライターの面白さを伝えていけたら良いなと思います。
+-->
 
 ## 好きなもの  
 ### 育児
