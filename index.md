@@ -19,7 +19,6 @@ Webサイト構築のソフトウェアエンジニア兼Webディレクター�
 |  GitHub  |  [@koushikagawa](https://github.com/KoushiKagawa)  |
 |  note  |  [@koushikagawa](https://note.com/koushikagawa)  |
 |  Facebook  |  [@koushikagawa](https://www.facebook.com/koushikagawa)  |
-|  Instagram  |  [@kagakoh](https://www.instagram.com/kagakoh/)  |
 |  お問合せ  |  [TwitterよりDM下さい](https://twitter.com/koushikagawa)  |
 
 ## 職務経歴(サマリー)
