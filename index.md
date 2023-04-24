@@ -180,6 +180,8 @@ Web制作のビジネスにおいて必要な一連のスキルを網羅的に�
 - ナレッジ共有
     - プロジェクトで得たナレッジは、自分だけにとどめずドキュメント化/発表の場を設けチームにシェアすることが好きです。
 
+詳細な実績は、[プロジェクトマネジメント](/about/projectmanagement)をご確認ください。
+
 ### プログラミングスキル
 
 <img alt="php" src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=flat-square" /> 
