@@ -183,6 +183,10 @@ Web制作のビジネスにおいて必要な一連のスキルを網羅的に�
 
 詳細な実績は、[プロジェクトマネジメント](/about/projectmanagement)をご確認ください。
 
+### テクニカルライティングスキル
+
+詳細な実績は、[テクニカルライティング](/about/technicalwriting)をご確認ください。
+
 ### プログラミングスキル
 
 <img alt="php" src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=flat-square" /> 
